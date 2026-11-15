@@ -1,4 +1,4 @@
-from mas.console import main
+from engine.console import main
 
 
 if __name__ == "__main__":
